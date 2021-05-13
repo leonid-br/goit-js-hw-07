@@ -18,8 +18,6 @@ const images = [
 
 const listEl = document.querySelector('#gallery')
 
-// listEl.insertAdjacentHTML('afterbegin', '<li></li>')
-
 // const makeGalery = els => {
 //     return els.map(el => {
 //         const itemEl=document.createElement('li')
